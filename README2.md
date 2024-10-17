@@ -22,7 +22,7 @@ Seguimiento de cambios sociales: Al ser una encuesta continua, permite comparar 
 
 **Datos** Los microdatos de la ECH contienen información detallada a nivel individual y de hogar, incluyendo variables como:
 
-    Identificación geográfica: Departamento, localidad, zona, etc.
+Identificación geográfica: Departamento, localidad, zona, etc.
 
 Composición del hogar: Número de personas, edades, y relaciones entre sus miembros.
 
@@ -31,6 +31,14 @@ Datos socioeconómicos: Ingresos, nivel educativo, situación laboral, etc.
 Condiciones de la vivienda: Tipo de vivienda, acceso a servicios básicos, etc.
 
 Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que proporcionen una visión clara de las características y condiciones de los hogares uruguayos en 2024.
+
+**Diccionario de variables utilizadas**
+NOMBRE DEL DEPARTAMENTO **nom_dpto** Nombre del departamento
+NOMBRE DE LA LOCALIDAD AGRUPADA **NOM_LOC_AGR_13** Nombre de las localidades agrupadas donde se releva la ECH
+EDAD **E27** Años cumplidos
+SEXO **E26** Sexo de la persona siendo 1 hombre, 2 mujer
+
+
 
 ## Integrantes del Grupo Team Sitemas
 Rodrigo Perez
