@@ -38,7 +38,8 @@ Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que 
 
 **Diccionario de variables utilizadas**
 
-*NOMBRE DEL DEPARTAMENTO *
+*NOMBRE DEL DEPARTAMENTO*
+
 **nom_dpto** Nombre del departamento
 
 **NOM_LOC_AGR_13** Nombre de las localidades agrupadas donde se releva la ECH
