@@ -19,5 +19,11 @@ Tomar decisiones informadas: Los datos ayudan a formular políticas públicas m�
 
 Seguimiento de cambios sociales: Al ser una encuesta continua, permite comparar los resultados de diferentes períodos, identificando cambios y tendencias en la estructura social y económica del país.
 
-**Datos**
+**Datos** Los microdatos de la ECH contienen información detallada a nivel individual y de hogar, incluyendo variables como:
+
+*Identificación geográfica: Departamento, localidad, zona, etc.
+Composición del hogar: Número de personas, edades, y relaciones entre sus miembros.
+Datos socioeconómicos: Ingresos, nivel educativo, situación laboral, etc.
+Condiciones de la vivienda: Tipo de vivienda, acceso a servicios básicos, etc.
+Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que proporcionen una visión clara de las características y condiciones de los hogares uruguayos en 2024.
 
