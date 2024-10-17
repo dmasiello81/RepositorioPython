@@ -34,30 +34,22 @@ Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que 
 
 **Diccionario de variables utilizadas**
 
-NOMBRE DEL DEPARTAMENTO 
+*NOMBRE DEL DEPARTAMENTO *
 **nom_dpto** Nombre del departamento
 
-NOMBRE DE LA LOCALIDAD AGRUPADA 
 **NOM_LOC_AGR_13** Nombre de las localidades agrupadas donde se releva la ECH
 
-EDAD **E27** 
+**E27** EDAD 
 Años cumplidos
 
-SEXO **E26** 
+**E26** SEXO 
 Sexo de la persona siendo 1 hombre, 2 mujer
 
-NIVEL EDUCATIVO **NIV_EDU** 
+*NIVEL EDUCATIVO*
 
-  1 CB incompleto o menos 
-  
-  2 CB completo o EMS incompleta 
-  
-  3 Sec. completa o terciaria incompleta 
-  
-  4 Terciario completo o posgrado 
+**NIV_EDU**  1 CB incompleto o menos / 2 CB completo o EMS incompleta / 3 Sec. completa o terciaria incompleta / 4 Terciario completo o posgrado 
 
-
-ASCENDENCIA ÉTNICO-RACIAL 
+*ASCENDENCIA ÉTNICO-RACIAL*
 
 **E29_1** 1 = Sí / 2 = No Afro o negra
 
@@ -69,7 +61,7 @@ ASCENDENCIA ÉTNICO-RACIAL
 
 **E29_5**  1 = Sí / 2 = Otra
 
-**INTEGRANTES DEL HOGAR**
+*INTEGRANTES DEL HOGAR*
 
 **D23** Nº Cantidad de personas de 14 o más años MENORES DE 14 AÑOS 
 
