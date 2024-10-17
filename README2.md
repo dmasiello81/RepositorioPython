@@ -9,9 +9,11 @@ El objetivo es ofrecer una herramienta accesible para el análisis de datos de f
 
 ## Origen, razon y datos
 **Origen**
+
 La fuente de datos trabajada son los microdatos de la Encuesta Continua de Hogares (ECH), Primer semestre 2024 del Instituto Nacional de Estadística (INE) estos datos ofrecen una representación detallada y precisa de la realidad socioeconómica de los hogares en el país. Los microdatos permiten analizar las características de las viviendas y de las personas en términos de ingresos, educación, empleo, y composición familiar, entre otros aspectos, brindando información confiable para realizar estudios que ayuden en la toma de decisiones, formulación de políticas públicas y seguimiento de tendencias en distintos sectores.
 
 **Razón**
+
 Ofrece un conjunto amplio y detallado de información que permite analizar aspectos clave como el empleo, los ingresos, la educación, las características de la vivienda y la estructura de los hogares. Estos datos son fundamentales para:
 
 Realizar análisis sociodemográficos y socioeconómicos: La ECH facilita el estudio de la situación de los hogares en diferentes departamentos del país, permitiendo identificar patrones y tendencias en variables como la composición de los hogares, la situación laboral y los ingresos.
@@ -20,7 +22,9 @@ Tomar decisiones informadas: Los datos ayudan a formular políticas públicas m�
 
 Seguimiento de cambios sociales: Al ser una encuesta continua, permite comparar los resultados de diferentes períodos, identificando cambios y tendencias en la estructura social y económica del país.
 
-**Datos** Los microdatos de la ECH contienen información detallada a nivel individual y de hogar, incluyendo variables como:
+**Datos** 
+
+Los microdatos de la ECH contienen información detallada a nivel individual y de hogar, incluyendo variables como:
 
 Identificación geográfica: Departamento, localidad, zona, etc.
 
