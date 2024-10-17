@@ -33,9 +33,13 @@ Condiciones de la vivienda: Tipo de vivienda, acceso a servicios básicos, etc.
 Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que proporcionen una visión clara de las características y condiciones de los hogares uruguayos en 2024.
 
 **Diccionario de variables utilizadas**
+
 NOMBRE DEL DEPARTAMENTO **nom_dpto** Nombre del departamento
+
 NOMBRE DE LA LOCALIDAD AGRUPADA **NOM_LOC_AGR_13** Nombre de las localidades agrupadas donde se releva la ECH
+
 EDAD **E27** Años cumplidos
+
 SEXO **E26** Sexo de la persona siendo 1 hombre, 2 mujer
 
 
