@@ -69,6 +69,13 @@ ASCENDENCIA ÉTNICO-RACIAL
 
 **E29_5**  1 = Sí / 2 = Otra
 
+**INTEGRANTES DEL HOGAR**
+
+**D23** Nº Cantidad de personas de 14 o más años MENORES DE 14 AÑOS 
+
+**D24** Nº Cantidad de personas menores de 14 años TOTAL DE PERSONAS DEL HOGAR 
+
+**D25** Nº Cantidad total de personas del hogar 
 
 ## Integrantes del Grupo Team Sitemas
 
