@@ -7,4 +7,17 @@ Este proyecto consiste en una aplicación interactiva de análisis de datos, uti
 La aplicación está construida sobre Streamlit, lo que permite a los usuarios interactuar con los datos y obtener insights visuales en tiempo real. El objetivo es ofrecer una herramienta accesible para el análisis de datos de forma intuitiva y visualmente atractiva.
 
 ## Origen, razon y datos
-#Origen
+**Origen**
+Los microdatos de la Encuesta Continua de Hogares (ECH), Primer semestre 2024 del Instituto Nacional de Estadística (INE) porque estos datos ofrecen una representación detallada y precisa de la realidad socioeconómica de los hogares en el país. Los microdatos permiten analizar las características de las viviendas y de las personas en términos de ingresos, educación, empleo, y composición familiar, entre otros aspectos, brindando información confiable para realizar estudios que ayuden en la toma de decisiones, formulación de políticas públicas y seguimiento de tendencias en distintos sectores.
+
+**Razón**
+ofrece un conjunto amplio y detallado de información que permite analizar aspectos clave como el empleo, los ingresos, la educación, las características de la vivienda y la estructura de los hogares. Estos datos son fundamentales para:
+
+Realizar análisis sociodemográficos y socioeconómicos: La ECH facilita el estudio de la situación de los hogares en diferentes departamentos del país, permitiendo identificar patrones y tendencias en variables como la composición de los hogares, la situación laboral y los ingresos.
+
+Tomar decisiones informadas: Los datos ayudan a formular políticas públicas más efectivas, al proporcionar un diagnóstico actualizado sobre las condiciones de vida de la población.
+
+Seguimiento de cambios sociales: Al ser una encuesta continua, permite comparar los resultados de diferentes períodos, identificando cambios y tendencias en la estructura social y económica del país.
+
+**Datos**
+
