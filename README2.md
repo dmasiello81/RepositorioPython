@@ -48,8 +48,11 @@ SEXO
 
 NIVEL EDUCATIVO **NIV_EDU** 
   1 CB incompleto o menos 
+  
   2 CB completo o EMS incompleta 
+  
   3 Sec. completa o terciaria incompleta 
+  
   4 Terciario completo o posgrado 
 
 
