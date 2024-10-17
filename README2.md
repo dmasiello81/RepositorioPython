@@ -34,14 +34,23 @@ Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que 
 
 **Diccionario de variables utilizadas**
 
-NOMBRE DEL DEPARTAMENTO **nom_dpto** Nombre del departamento
+NOMBRE DEL DEPARTAMENTO 
+**nom_dpto** Nombre del departamento
 
-NOMBRE DE LA LOCALIDAD AGRUPADA **NOM_LOC_AGR_13** Nombre de las localidades agrupadas donde se releva la ECH
+NOMBRE DE LA LOCALIDAD AGRUPADA 
+**NOM_LOC_AGR_13** Nombre de las localidades agrupadas donde se releva la ECH
 
-EDAD **E27** Años cumplidos
+EDAD 
+**E27** Años cumplidos
 
-SEXO **E26** Sexo de la persona siendo 1 hombre, 2 mujer
+SEXO 
+**E26** Sexo de la persona siendo 1 hombre, 2 mujer
 
+NIVEL EDUCATIVO **NIV_EDU** 
+  1 CB incompleto o menos 
+  2 CB completo o EMS incompleta 
+  3 Sec. completa o terciaria incompleta 
+  4 Terciario completo o posgrado 
 
 
 ## Integrantes del Grupo Team Sitemas
