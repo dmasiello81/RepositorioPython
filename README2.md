@@ -31,3 +31,10 @@ Condiciones de la vivienda: Tipo de vivienda, acceso a servicios básicos, etc.
 
 Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que proporcionen una visión clara de las características y condiciones de los hogares uruguayos en 2024.
 
+## Integrantes del Grupo Team Sitemas
+Rodrigo Perez
+Martin Filippini
+Diego Masiello
+
+
+
