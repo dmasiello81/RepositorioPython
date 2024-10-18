@@ -45,38 +45,21 @@ https://www.ine.gub.uy/Anda5/index.php/catalog/757/data-dictionary/F11?file_name
 
 ## Diccionario de variables utilizadas
 
-**nom_dpto** Nombre del departamento
-
-**NOM_LOC_AGR_13** Nombre de las localidades agrupadas donde se releva la ECH
-
-**E27** EDAD Años cumplidos
-
-**E26** SEXO 
-Sexo de la persona siendo 1 hombre, 2 mujer
-
-*NIVEL EDUCATIVO*
-
-**NIV_EDU**  1 CB incompleto o menos / 2 CB completo o EMS incompleta / 3 Sec. completa o terciaria incompleta / 4 Terciario completo o posgrado 
-
-*ASCENDENCIA ÉTNICO-RACIAL*
-
-**E29_1** 1 = Sí / 2 = No Afro o negra
-
-**E29_2**  1 = Sí / 2 = No Asiática o amarilla
-
-**E29_3**  1 = Sí / 2 = No Blanca 
-
-**E29_4**  1 = Sí / 2 = No Indígena 
-
-**E29_5**  1 = Sí / 2 = Otra
-
-*INTEGRANTES DEL HOGAR*
-
-**D23** Nº Cantidad de personas de 14 o más años MENORES DE 14 AÑOS 
-
-**D24** Nº Cantidad de personas menores de 14 años TOTAL DE PERSONAS DEL HOGAR 
-
-**D25** Nº Cantidad total de personas del hogar 
+|    Variable   |  Descripción  | Valores posibles |
+| ------------- | ------------- | ------------- |
+| **nom_dpto**  | Nombre del departamento  | |
+|**NOM_LOC_AGR_13**  |Nombre de las localidades agrupadas donde se releva la ECH|  |
+|**E27**|Años cumplidos|  |
+|**E26**|Sexo de la persona siendo|1 hombre, 2 mujer|
+|**NIV_EDU**| Nivel educativo|1 CB incompleto o menos / 2 CB completo o EMS incompleta / 3 Sec. completa o terciaria incompleta / 4 Terciario completo o posgrado   |
+|**E29_1**|Ascendencia ético-racial|1 = Sí / 2 = No Afro o negra|
+|**E29_2**|Ascendencia ético-racial|1 = Sí / 2 = No Asiática o amarilla|
+|**E29_3**|Ascendencia ético-racial|1 = Sí / 2 = No Blanca|
+|**E29_4**|Ascendencia ético-racial|1 = Sí / 2 = No Indígena|
+|**E29_5**|Ascendencia ético-racial|1 = Sí / 2 = Otra|
+|**D23**|Integrantes del hogar|Nº Cantidad de personas de 14 o más años MENORES DE 14 AÑOS|
+|**D24**|Integrantes del hogar|Nº Cantidad de personas menores de 14 años TOTAL DE PERSONAS DEL HOGAR|
+|**D25**|Integrantes del hogar|Nº Cantidad total de personas del hogar| 
 
 ## Integrantes del Grupo Team Sitemas
 
