@@ -56,7 +56,7 @@ https://www.ine.gub.uy/Anda5/index.php/catalog/757/data-dictionary/F11?file_name
 |**D24**|Integrantes del hogar|Nº Cantidad de personas menores de 14 años TOTAL DE PERSONAS DEL HOGAR|
 |**D25**|Integrantes del hogar|Nº Cantidad total de personas del hogar| 
 
-## Integrantes del Grupo Team Sitemas
+## Integrantes del Grupo Team Sistemas
 
 Rodrigo Perez
 
