@@ -47,8 +47,8 @@ https://www.ine.gub.uy/Anda5/index.php/catalog/757/data-dictionary/F11?file_name
 
 |    Variable   |  Descripción  | Valores posibles |
 | ------------- | ------------- | ------------- |
-| **nom_dpto**  | Nombre del departamento  | |
-|**NOM_LOC_AGR_13**  |Nombre de las localidades agrupadas donde se releva la ECH|  |
+| **nom_dpto**  | Nombre del departamento  |Caracteres largo 14|
+|**NOM_LOC_AGR_13**  |Nombre de las localidades agrupadas donde se releva la ECH|Caracteres largo 255|
 |**E27**|Años cumplidos|  |
 |**E26**|Sexo de la persona siendo|1 hombre, 2 mujer|
 |**NIV_EDU**| Nivel educativo|1 CB incompleto o menos / 2 CB completo o EMS incompleta / 3 Sec. completa o terciaria incompleta / 4 Terciario completo o posgrado   |
