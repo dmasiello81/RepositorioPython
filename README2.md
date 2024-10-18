@@ -36,6 +36,13 @@ Condiciones de la vivienda: Tipo de vivienda, acceso a servicios básicos, etc.
 
 Este tipo de datos es esencial para crear gráficos, análisis y resúmenes que proporcionen una visión clara de las características y condiciones de los hogares uruguayos en 2024.
 
+**Fuentes utilizadas**
+
+https://www.ine.gub.uy/Anda5/index.php/catalog/757/get-microdata
+
+https://www.ine.gub.uy/Anda5/index.php/catalog/757/data-dictionary/F11?file_name=ECH_semestre1_seguimiento_2024
+
+
 ## Diccionario de variables utilizadas
 
 **nom_dpto** Nombre del departamento
